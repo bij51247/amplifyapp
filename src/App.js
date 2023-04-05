@@ -4,7 +4,7 @@ import classes from "./CssModules.module.scss"
 import axios from 'axios';
 
 const API_URL = 'https://api.openai.com/v1/';
-const API_KEY = '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';
+const API_KEY = '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';
 
 const App = () => {
   const [imageData, setImageData] = useState('');
